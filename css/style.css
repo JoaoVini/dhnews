@@ -21,6 +21,21 @@ main {
     text-align: justify;
 }
 
+footer {
+    width: 800px;
+    margin: 0 auto;
+}
+
 section img {
     width: 100%;
+}
+
+ul.redes-sociais {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+ul.redes-sociais li {
+    display: inline-block;
+    margin: 0 10px;
 }
