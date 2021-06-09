@@ -1,0 +1,26 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+header {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#title {
+    color: #ec183f;
+    font-size: 45px;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto;
+    border-bottom: solid 1px #ccc;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+section img {
+    width: 100%;
+}
